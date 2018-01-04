@@ -1,2 +1,4 @@
 # CompetitiveCoding
-Code I have written for competitive programming online problems.
+Code I have written for online competitive programming problems.
+
+Mostly from [dmoj](www.dmoj.ca)
